@@ -1,0 +1,12 @@
+# YAP 471 - Stock Tigers: Multi-Sector Momentum Strategy
+# Data
+yfinance>=0.2.36
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Optimization (Markowitz)
+scipy>=1.11.0
+
+# Plotting (optional)
+matplotlib>=3.7.0
+seaborn>=0.12.0
